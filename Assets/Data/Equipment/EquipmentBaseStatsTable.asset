@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b8ea8ecdcea76240bde3326014cd957, type: 3}
+  m_Name: EquipmentBaseStatsTable
+  m_EditorClassIdentifier: IdleGame::IdleGame.Equipment.EquipmentBaseStatsTable
+  entries:
+  - slot: 0
+    grade: 0
+    bonusAttack: 1
+    bonusHealth: 5
+  - slot: 0
+    grade: 1
+    bonusAttack: 3
+    bonusHealth: 15
+  - slot: 0
+    grade: 2
+    bonusAttack: 7
+    bonusHealth: 35
+  - slot: 0
+    grade: 3
+    bonusAttack: 15
+    bonusHealth: 75
+  - slot: 1
+    grade: 0
+    bonusAttack: 1
+    bonusHealth: 5
+  - slot: 1
+    grade: 1
+    bonusAttack: 3
+    bonusHealth: 15
+  - slot: 1
+    grade: 2
+    bonusAttack: 7
+    bonusHealth: 35
+  - slot: 1
+    grade: 3
+    bonusAttack: 15
+    bonusHealth: 75
+  - slot: 2
+    grade: 0
+    bonusAttack: 1
+    bonusHealth: 5
+  - slot: 2
+    grade: 1
+    bonusAttack: 3
+    bonusHealth: 15
+  - slot: 2
+    grade: 2
+    bonusAttack: 7
+    bonusHealth: 35
+  - slot: 2
+    grade: 3
+    bonusAttack: 15
+    bonusHealth: 75
+  - slot: 3
+    grade: 0
+    bonusAttack: 1
+    bonusHealth: 5
+  - slot: 3
+    grade: 1
+    bonusAttack: 3
+    bonusHealth: 15
+  - slot: 3
+    grade: 2
+    bonusAttack: 7
+    bonusHealth: 35
+  - slot: 3
+    grade: 3
+    bonusAttack: 15
+    bonusHealth: 75

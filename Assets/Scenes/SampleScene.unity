@@ -351,6 +351,7 @@ GameObject:
   - component: {fileID: 1377452008}
   - component: {fileID: 1377452007}
   - component: {fileID: 1377452009}
+  - component: {fileID: 1377452010}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -398,6 +399,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: IdleGame::IdleGame.Equipment.EquipmentSystem
   baseStatsTable: {fileID: 11400000, guid: 6d9cfe1c17d80fd4ea626a17ff53a3f2, type: 2}
+--- !u!114 &1377452010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1377452006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93a3a85cbce92b74dbcb8e0372241810, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: IdleGame::IdleGame.Battle.BattleSystem
+  stages: []
+  attacksPerSecond: 1
+  equipmentSystem: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
